@@ -21,6 +21,12 @@
           <i class="fa fa-envelope-o" aria-hidden="true"></i>
           <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>
         </p>
+        <p itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+          Coordonnées GPS :
+          <a href="http://www.openstreetmap.org/way/161494269?mlat=44.06420&mlon=6.08969" target="_blank">44.06419, 6.08971</a>
+          <meta itemprop="latitude" content="44.06419">
+          <meta itemprop="longitude" content="6.08971">
+        </p>
       </div>
     </div>
   </div>
