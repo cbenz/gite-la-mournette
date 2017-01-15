@@ -32,9 +32,7 @@ feature_row_logement:
   - image_path: /assets/images/salon.jpg
     alt: Le salon
     excerpt: >
-      Capacité 2 personnes, 1 chambre.
-      <br><br>
-      Surface 33 m².
+      Surface totale de 33 m², 1 chambre.
       <br><br>
       Coin cuisine équipée : barbecue, micro-onde, lave-linge, four, réfrigérateur.
       <br><br>
@@ -56,6 +54,8 @@ feature_row_logement:
     excerpt: La salle d'eau et WC indépendant.
 ---
 
+[![image-center](/assets/images/logo-gite-de-france-2-epis.png){: .align-center}](https://www.gites-de-france.com/location-vacances-Mirabeau-Gite-La-Mournette-04G11397.html)
+
 {% include feature_row type="left" id="feature_row_presentation" %}
 
 <span id="le-logement"></span>
@@ -66,11 +66,11 @@ feature_row_logement:
 
 # Quoi faire ?
 
-Activités: Randonnées, VTT, golf, baignades et activités nautiques, ski, équitation, escalade et via-ferrata, Thermes de Digne les bains, Corso de la lavande...
+Activités : Randonnées, VTT, golf, baignades et activités nautiques, ski, équitation, escalade et via-ferrata, Thermes de Digne les bains, Corso de la lavande...
 
-Lieux à voir: Route de Napoléon, Gorges du Verdon, Moustiers-Ste-Marie,  Plateau de Valensole, Le prieuré de Ganagobie, lac de Serre-Ponçon, Vallée de la blanche, Vallée de l'Ubaye, lac d'allos, les pénitents des Mées, les Demoiselles coiffées...
+Lieux à voir : Route de Napoléon, Gorges du Verdon, Moustiers-Ste-Marie,  Plateau de Valensole, Le prieuré de Ganagobie, lac de Serre-Ponçon, Vallée de la blanche, Vallée de l'Ubaye, lac d'allos, les pénitents des Mées, les Demoiselles coiffées...
 
-Visite du patrimoine régional et historique: Maison Alexandra David Neel, Dalle aux amonites, Réserve naturelle géologique de Haute-Provence, Citadelle de Sisteron, Citadelle d'Entrevaux, train des Pignes, le conservatoire Ethno-botanique de Salagon, centre astronomique de St-Michel l'Observatoire, centre Jean Giono...
+Visite du patrimoine régional et historique : Maison Alexandra David Neel, Dalle aux amonites, Réserve naturelle géologique de Haute-Provence, Citadelle de Sisteron, Citadelle d'Entrevaux, train des Pignes, le conservatoire Ethno-botanique de Salagon, centre astronomique de St-Michel l'Observatoire, centre Jean Giono...
 
 Mallemoisson (5 km) : pharmacie, boulangerie, hôtel-restaurant, station service et marché selon les jours.
 
@@ -78,7 +78,7 @@ Mallemoisson (5 km) : pharmacie, boulangerie, hôtel-restaurant, station service
 
 Circuits de randonnée vers la Vallée des Duyes, le col de Fontbelle, Sisteron, les Routes de la Lavande, la Route Napoléon, la Route du Temps.
 
-<iframe src="https://www.cartes.xyz/t/18fa92-Les_equipements_lies_aux_dechets#position/15/44.065941844387154/6.088743209838868" width="100%" height="500" frameBorder="0"></iframe>
+<iframe src="https://www.cartes.xyz/t/a8f28e-Autour_du_gite_de_La_Mournette#position/17/44.0641301790703/6.088678836822511" width="100%" height="500" frameBorder="0"></iframe>
 <p>
   <a href="https://www.cartes.xyz/t/18fa92-Les_equipements_lies_aux_dechets#position/15/44.065941844387154/6.088743209838868" target="_blank">
     <i class="fa fa-external-link" aria-hidden="true"></i> Voir en plein écran

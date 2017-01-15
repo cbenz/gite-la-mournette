@@ -10,7 +10,7 @@ title: Gîte de La Mournette
 name: Laëtitia et André Laignel
 email: laetitia.laignel04@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Ce gîte est top.
+  Le Gîte la La Mournette est un gîte de France classé 2 épis situé au cœur des montagnes de Haute Provence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gite-la-mournette.fr" # the base hostname & protocol for your site
 locale: "fr"
