@@ -80,7 +80,7 @@ Circuits de randonnée vers la Vallée des Duyes, le col de Fontbelle, Sisteron,
 
 <iframe src="https://www.cartes.xyz/t/a8f28e-Autour_du_gite_de_La_Mournette#position/17/44.0641301790703/6.088678836822511" width="100%" height="500" frameBorder="0"></iframe>
 <p>
-  <a href="https://www.cartes.xyz/t/18fa92-Les_equipements_lies_aux_dechets#position/15/44.065941844387154/6.088743209838868" target="_blank">
+  <a href="https://www.cartes.xyz/t/a8f28e-Autour_du_gite_de_La_Mournette#position/17/44.0641301790703/6.088678836822511" target="_blank">
     <i class="fa fa-external-link" aria-hidden="true"></i> Voir en plein écran
   </a>
 </p>
