@@ -16,4 +16,5 @@ url: "https://www.gite-de-la-mournette.fr" # the base hostname & protocol for yo
 # github_username:  jekyll
 
 # Build settings
+exclude: [README.md, LICENSE, Gemfile, Gemfile.lock]
 markdown: kramdown
