@@ -9,11 +9,20 @@ excerpt: Au cœur des montagnes de Haute-Provence
 feature_row_presentation:
   - image_path: /assets/images/montagnes.jpg
     alt: Vue du gîte
-    excerpt: Au cœur de la Haute Provence, gîte services tout compris en maison indépendante dans un quartier calme comprenant le gîte et le logement des propriétaires à l'étage sur un terrain clos commun offrant une très belle vue sur la vallée.
+    excerpt: >
+      En plein coeur de la Haute Provence, rez de chaussée exposé plein sud
+      avec terrasse privative en maison indépendante dans un quartier calme.
+      <br><br>
+      Vue panoramique et magique sur toute la vallée…
 feature_row_logement:
   - image_path: /assets/images/maison.jpg
     alt: La maison
-    excerpt: Maison indépendante dans un quartier calme comprenant le gîte et le logement des propriétaires à l'étage.
+    excerpt: >
+      Le gite se compose d'un séjour avec petite cuisine, chambre claire, salle de bain et WC séparé.
+      <br><br>
+      Idéal pour deux personnes. Parking privatif.
+      <br><br>
+      Jardin commun avec les jeunes et sympathiques propriétaires habitant sur place (à l'étage).
   - image_path: /assets/images/banc-village.jpg
     alt: Vue du village
     excerpt: Terrain clos commun offrant une très belle vue sur la vallée.
@@ -37,22 +46,29 @@ feature_row_logement:
 
 {% include feature_row type="right" id="feature_row_logement" %}
 
-- Capacité : 2 personnes
-- Nombre de chambre : 1
+- Capacité 2 personnes, 1 chambre
 - Surface : 33 m²
-- Animaux : Non autorisés
-- Internet : Oui
-- Les lits sont faits à l'arrivée et le linge de toilette est fournis.
-- Forfait ménage en fin de séjour à la demande
+- Équipements: Wifi, Télévision, Lecteur DVD, Micro-onde, Lave-linge, Four, Réfrigérateur, Barbecue, Petite bibliothèque et jeux.
+- Le lit est fait à l'arrivée et le linge de toilette est fourni.
+- Forfait ménage en fin de séjour à la demande.
 - Chauffage électrique
 - Toutes charges comprises
+- Animaux non autorisés
+- Commerces à 10 minutes
 
-# Activités à proximité
+# Quoi faire ?
 
-Nombreuses randonnées au départ du gîte.
+Activités: Randonnées, VTT, golf, baignades et activités nautiques, ski, équitation, escalade et via-ferrata, Thermes de Digne les bains, Corso de la lavande...
 
-Mirabeau 0.5 km : bistrot de pays. Mallemoisson 5 km : quelques commerces.
-[Digne-les-Bains](http://www.dignelesbains.fr/) (15 km) : tous commerces, services et loisirs, plan d'eau, musées, Réserve Géologique, Golf.
+Lieux à voir: Route de Napoléon, Gorges du Verdon, Moustiers-Ste-Marie,  Plateau de Valensole, Le prieuré de Ganagobie, lac de Serre-Ponçon, Vallée de la blanche, Vallée de l'Ubaye, lac d'allos, les pénitents des Mées, les Demoiselles coiffées...
+
+Visite du patrimoine régional et historique: Maison Alexandra David Neel, Dalle aux amonites, Réserve naturelle géologique de Haute-Provence, Citadelle de Sisteron, Citadelle d'Entrevaux, train des Pignes, le conservatoire Ethno-botannique de Salagon, centre astronomique de St-Michel l'Observatoire, centre Jean Giono...
+
+Mirabeau 0.5 km : bistrot de pays.
+
+Mallemoisson 5 km : quelques commerces.
+
+[Digne-les-Bains](http://www.dignelesbains.fr/) (15 km) : zone commerciale, services et loisirs, plan d'eau, musées.
 
 Circuits vers la Vallée des Duyes, le col de Fontbelle, Sisteron, les Routes de la Lavande, la Route Napoléon, la Route du Temps.
 
@@ -64,6 +80,8 @@ Circuits vers la Vallée des Duyes, le col de Fontbelle, Sisteron, les Routes de
 </p>
 
 # Tarifs et disponibilités
+
+Ouvert toute l'année. Offre week-end possible – à partir de deux nuits.
 
 <p>
   Pour obtenir les tarifs et disponibilités,

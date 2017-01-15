@@ -2,8 +2,8 @@
 main:
   - title: "Le logement"
     url: "#le-logement"
-  - title: "Activités à proximité"
-    url: "#activités-à-proximité"
+  - title: "Quoi faire ?"
+    url: "#quoi-faire"
   - title: "Tarifs et disponibilités"
     url: "#tarifs-et-disponibilités"
   - title: "Contact"
