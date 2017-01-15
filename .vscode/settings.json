@@ -5,6 +5,7 @@
         "**/bower_components": true,
         "_site": true,
         ".bundle": true,
-        ".sass-cache": true
+        ".sass-cache": true,
+        "vendor": true
     }
 }
