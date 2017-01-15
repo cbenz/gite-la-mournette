@@ -19,3 +19,4 @@ bundle exec jekyll serve
 - améliorer la lisibilité du titre splash
 - trouver le max de liens externes
 - s'ajouter à Google Maps
+- traduction en/fr
