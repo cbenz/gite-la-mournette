@@ -19,3 +19,6 @@ locale: "fr"
 exclude: [deploy.sh, README.md, LICENSE, Gemfile, Gemfile.lock, vendor]
 markdown: kramdown
 theme: minimal-mistakes-jekyll
+
+facebook:
+  username: "lamournette"
