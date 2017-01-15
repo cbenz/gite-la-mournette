@@ -14,6 +14,8 @@ feature_row_presentation:
       avec terrasse privative en maison indépendante dans un quartier calme.
       <br><br>
       Vue panoramique et magique sur toute la vallée…
+      <br><br>
+      [![image-center](/assets/images/logo-gite-de-france-2-epis.png){: .align-center}](https://www.gites-de-france.com/location-vacances-Mirabeau-Gite-La-Mournette-04G11397.html)
 feature_row_exterieur:
   - image_path: /assets/images/maison.jpg
     alt: La maison
@@ -53,8 +55,6 @@ feature_row_logement:
     alt: La salle de bains
     excerpt: La salle d'eau et WC indépendant.
 ---
-
-[![image-center](/assets/images/logo-gite-de-france-2-epis.png){: .align-center}](https://www.gites-de-france.com/location-vacances-Mirabeau-Gite-La-Mournette-04G11397.html)
 
 {% include feature_row type="left" id="feature_row_presentation" %}
 
