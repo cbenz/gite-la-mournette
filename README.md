@@ -26,3 +26,4 @@ bundle exec jekyll serve
 - centrer verticalement le texte par rapport aux photos
 - recadrer la photo des propriétaires qui est trop grande
 - revoir le menu du haut (liens morts)
+- resize images
