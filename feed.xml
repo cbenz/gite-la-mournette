@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gîte de La Mournette</title>
+    <description>Le Gîte la La Mournette est un gîte de France classé 2 épis situé au cœur des montagnes de Haute Provence.
+</description>
+    <link>http://gite-la-mournette.fr/</link>
+    <atom:link href="http://gite-la-mournette.fr/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 16 Jan 2017 00:30:31 +0100</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 00:30:31 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+  </channel>
+</rss>
