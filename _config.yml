@@ -16,6 +16,6 @@ url: "http://gite-la-mournette.fr" # the base hostname & protocol for your site
 locale: "fr"
 
 # Build settings
-exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, vendor]
+exclude: [deploy.sh, README.md, LICENSE, Gemfile, Gemfile.lock, vendor]
 markdown: kramdown
 theme: minimal-mistakes-jekyll
